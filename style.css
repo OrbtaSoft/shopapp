@@ -1,0 +1,14 @@
+body{height: 222px;}
+::-webkit-scrollbar{
+background-color: brown;
+width: 15px;
+}
+::-webkit-scrollbar-button{
+    background-color: white;
+    border-radius: 30px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(57, 0, 243);
+    border-radius: 30px;
+
+}
